@@ -6,3 +6,5 @@ java DangeloGMod4PA.java
 
 To get documentation you need to type:
 javadoc DangeloGMod4PA.java
+
+Documentation web page is also found if you download the Documentation folder and open DangeloGMod4PA.html.
